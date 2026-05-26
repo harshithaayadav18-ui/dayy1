@@ -1,0 +1,9 @@
+7. what is the use of git 
+
+Uses of Git:
+Tracks code changes
+Helps multiple developers work together
+Stores previous versions of files
+Allows branching and merging
+Easy backup and recovery
+Useful for software development projects

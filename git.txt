@@ -1,0 +1,20 @@
+6. one text file about git and git
+
+Git is a version control system used to track changes in source code.
+It helps developers manage projects, collaborate with teams, and restore previous versions of files.
+
+GitHub is a cloud platform used to store Git repositories online.
+It allows multiple developers to work together on projects from different locations.
+
+Features of Git:
+1. Version control
+2. Branching and merging
+3. Fast and efficient
+4. Backup and recovery
+
+Features of GitHub:
+1. Online repository hosting
+2. Team collaboration
+3. Pull requests
+4. Project sharing
+5. Issue tracking
